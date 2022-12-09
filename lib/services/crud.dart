@@ -13,7 +13,7 @@ class CRUD {
       "task_status": status
     };
 
-    documentReference.set(tasks).whenComplete(() {
+    var result = await documentReference.set(tasks).whenComplete(() {
       response.errorStatus = 200;
       response.message = "Task has been created successfully";
     }).catchError((e) {
