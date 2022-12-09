@@ -1,6 +1,12 @@
+import 'firebase_options.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  print(Firebase.apps.length);
+  await Firebase.initializeApp();
+
   runApp(const MyApp());
 }
 

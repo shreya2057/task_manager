@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "560964306800",
-    "project_id": "taskmanager2k57",
-    "storage_bucket": "taskmanager2k57.appspot.com"
+    "project_number": "965550030175",
+    "project_id": "taskmanager2057",
+    "storage_bucket": "taskmanager2057.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:560964306800:android:4cedbcad1a4d3aa2da31b5",
+        "mobilesdk_app_id": "1:965550030175:android:f83e0492204090d102caea",
         "android_client_info": {
           "package_name": "com.example.shreya_task_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "560964306800-e9lcdd25e2tfkvd6j814sdousa4iskdk.apps.googleusercontent.com",
+          "client_id": "965550030175-ab7svumuldb1dl48q65ug439vn9h22nc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB-rtyPbiJBJhfTaykO35pg31YgUGosm04"
+          "current_key": "AIzaSyBiuMsrpkZOWyEdCWg20DSsToMuamNleao"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "560964306800-e9lcdd25e2tfkvd6j814sdousa4iskdk.apps.googleusercontent.com",
+              "client_id": "965550030175-ab7svumuldb1dl48q65ug439vn9h22nc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
