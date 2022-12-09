@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:965550030175:android:f83e0492204090d102caea",
+        "mobilesdk_app_id": "1:965550030175:android:aea32a63a6c7129802caea",
         "android_client_info": {
           "package_name": "com.example.shreya_task_app"
         }
@@ -29,6 +29,13 @@
             {
               "client_id": "965550030175-ab7svumuldb1dl48q65ug439vn9h22nc.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "965550030175-c1u06svau97ds4st3gq10odjn8dl6224.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shreyaTaskApp"
+              }
             }
           ]
         }
